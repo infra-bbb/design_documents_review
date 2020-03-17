@@ -138,3 +138,6 @@
 ## buy_details
 - テーブル名がbuy_detailsだと受注詳細の意味になりません。orders_detailsなどが適切です。
 - buy_numでは意味が不明瞭です。
+
+
+## 合格です
