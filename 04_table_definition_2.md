@@ -18,7 +18,7 @@
   
 ## products
   - stock_statusは在庫数で判別可能なため、カラムを持つ必要はありません。
-  - discsとproductsの関係が逆です。discs_idが必要です。
+  - stockは入荷と売上から算出できるので不要です。
   
 ## discs
   - INDEXに◯がついていません。
